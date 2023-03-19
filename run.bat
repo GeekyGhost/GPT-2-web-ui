@@ -11,6 +11,6 @@ echo Installing the necessary requirements...
 pip install -r requirements.txt
 
 echo Launching GPT 2 UI
-python gpt2-ui-main.py
+gpt2-ui-main.py
 
 pause
